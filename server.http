@@ -1,0 +1,14 @@
+List Transactions:
+GET http://localhost:3000/transactions?month=02&search=product&page=1&limit=10
+
+Statistics:
+http://localhost:3000/statistics?month=02
+
+Bar Chart:
+http://localhost:3000/bar-chart?month=02
+
+Pie Chart:
+http://localhost:3000/pie-chart?month=02
+
+Combined Data:
+http://localhost:3000/combined-data?month=02
